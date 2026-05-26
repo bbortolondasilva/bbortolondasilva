@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    height="150"
+    height="170"
     src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"
     alt="GitHub Streak"
   />
