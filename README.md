@@ -53,6 +53,11 @@
     height="40"
   />
   <img style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    width="40"
+    height="40"
+  />        
+  <img style="margin-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     width="40"
     height="40"
