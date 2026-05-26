@@ -18,6 +18,7 @@
 </p>
 
 <img
+  width="200"
   src="https://github-readme-activity-graph.vercel.app/graph?username=bbortolondasilva&theme=tokyo-night"
 />
 
