@@ -19,13 +19,8 @@
 </p>
 
 <p align="center">
-<<<<<<< Updated upstream
   <img style="margin-right: 10px;"
     width="41%"
-=======
-  <img style="margin-right: 15px;"
-    width="263"
->>>>>>> Stashed changes
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
   />
   <img 
