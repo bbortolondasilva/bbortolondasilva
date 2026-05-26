@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="Status Github"></img>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bbortolondasilva=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bbortolondasilva/bbortolondasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
