@@ -8,26 +8,6 @@
 
 ---
 
-<br>
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbortolondasilva&theme=tokyonight"
-  />
-</p>
-
-<p align="center">
-  <img style="margin-right: 10px;"
-    width="41%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
-  />
-  <img 
-    width="41%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
-  />
-</p>
-
----
-
 ## 🚀 Tecnologias
 
 <p align="center">
@@ -65,6 +45,26 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     width="40"
     height="40"
+  />
+</p>
+
+---
+
+<br>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbortolondasilva&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img style="margin-right: 10px;"
+    width="41%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
+  />
+  <img 
+    width="41%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
   />
 </p>
 
