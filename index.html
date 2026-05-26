@@ -4,11 +4,81 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Template Perfil Github</title>
+
+    <style>
+        :root {
+            --principal: #03223F;
+            --destaque: #038BBB;
+            --escuro: #010D23;
+        }
+
+        * { 
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            background-color: var(--escuro);
+        }
+
+        header {
+            color: white; 
+            background-color: var(--escuro); 
+
+            padding: 20px; 
+
+            display: flex; 
+            flex-direction: row; 
+            justify-content: space-between; 
+            align-items: center;
+        }
+
+        header > p {
+            background-color: var(--principal); 
+            color: white; 
+            opacity: 0.;
+
+            font-size: 1.2em; 
+            font-weight: bold; 
+            
+            border-radius: 8px; 
+
+            margin: 0px;
+            padding: 8px 13px; 
+        }
+
+        main > #apresentacao {
+            background-color: var(--principal);
+            color: white;
+
+            margin: 10px;
+            padding: 10px;
+
+            border-radius: 10px;
+        }
+    </style>
 </head>
 <body>
-    <div class="header" style="color: white; background-color: #010D23; padding: 20px; display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+    <header>
         <h1>Bruno Bortolon da Silva</h1>
-        <p style="background-color: blue; padding: 15px; font-size: 1.2em; font-weight: bold; color: white; border-radius: 8px; margin: 0px;">B</p>
-    </div>
+        <p>B</p>
+    </header>
+
+    <main>
+        <section id="apresentacao">
+            <h2>Sobre Mim</h2>
+
+            <article>
+                <p>
+                    “Estudante de Sistemas de Informação no IFRS - Campus Vacaria 🎓 | Técnico em Informática 💻 | Interessado em desenvolvimento e tecnologia 🚀”
+                </p>
+            </article>
+        </section>
+
+        <section>
+            <h2></h2>
+        </section>
+    </main>
 </body>
 </html>
