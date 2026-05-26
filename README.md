@@ -20,11 +20,11 @@
 
 <p align="center">
   <img style="margin-right: 10px;"
-    width="40%"
+    width="42%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
   />
   <img 
-    width="40%"
+    width="42%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
   />
 </p>
