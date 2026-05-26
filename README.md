@@ -8,7 +8,9 @@
 
 ---
 
-<br>
+<br> 
+
+## 📊 Estatísticas
 
 <p align="center">
   <img 
@@ -17,8 +19,13 @@
 </p>
 
 <p align="center">
+  <img style="margin-right: 10px;"
+    width="263"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
+  />
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight"
+    width="263"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
   />
 </p>
 
@@ -27,11 +34,6 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    width="40"
-    height="40"
-  />
   <img style="margin-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     width="40"
