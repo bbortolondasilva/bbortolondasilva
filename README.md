@@ -17,25 +17,51 @@
   />
 </p>
 
-<p align="center">
-  <img
-    width="500"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bbortolondasilva&theme=tokyo-night"
-  />
-</p>
 
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbortolondasilva&theme=tokyonight"
+/>
 ---
 
 ## 🚀 Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<p align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    width="40"
+    height="40"
+  />
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="40"
+    height="40"
+  />
 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    width="40"
+    height="40"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    width="40"
+    height="40"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    width="40"
+    height="40"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="40"
+    height="40"
+  />
 </p>
 
 ---
