@@ -1,6 +1,6 @@
-## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bbortolondasilva=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div class="header" style="background-color: #010D23; padding: 10px">
+    <h1>Bruno Bortolon da Silva</h1>
+</div>
 
 <!--
 **bbortolondasilva/bbortolondasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
