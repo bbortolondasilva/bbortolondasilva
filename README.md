@@ -37,6 +37,11 @@
     height="40"
   />
   <img style="margin-right: 10px;"
+    src="https://flet.dev/img/logo.svg"
+    width="40"
+    height="40"
+  />
+  <img style="margin-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     width="40"
     height="40"
