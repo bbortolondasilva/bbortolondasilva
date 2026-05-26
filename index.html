@@ -62,6 +62,8 @@
             background-color: var(--principal);
             color: white;
 
+            height: 300px;
+
             margin: 10px;
             padding: 10px;
 
@@ -70,10 +72,12 @@
 
         .badges {
             display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
 
-            margin-top: 10px;
+            margin-top: 15px;
         }
 
         #status {
@@ -96,9 +100,9 @@
         <section id="apresentacao">
             <h2>🙋‍♂️ Sobre Mim</h2>
 
-            <article>
+            <article style="margin-top: 15px;">
                 <p>
-                    “Estudante de Sistemas de Informação no IFRS - Campus Vacaria 🎓 | Técnico em Informática 💻 | Interessado em desenvolvimento e tecnologia 🚀”
+                    Estudante de Sistemas de Informação no IFRS - Campus Vacaria 🎓 | Técnico em Informática 💻 | Interessado em desenvolvimento e tecnologia 🚀
                 </p>
             </article>
         </section>
@@ -106,7 +110,7 @@
         <section id="status">
             <div>
                 <img src="https://raw.githubusercontent.com/bbortolondasilva/bbortolondasilva/stats-output/stats.svg" height="150" alt="stats graph"  />
-                
+
                 <img src="https://raw.githubusercontent.com/bbortolondasilva/bbortolondasilva/languages-output/languages.svg" height="150" alt="languages graph"  />
             </div>
         </section>
