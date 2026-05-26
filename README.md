@@ -17,10 +17,12 @@
   />
 </p>
 
-<img
-  width="500"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bbortolondasilva&theme=tokyo-night"
-/>
+<p align="center">
+  <img
+    width="500"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bbortolondasilva&theme=tokyo-night"
+  />
+</p>
 
 ---
 
