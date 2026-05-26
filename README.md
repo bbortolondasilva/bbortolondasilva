@@ -18,7 +18,7 @@
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolodasilva&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolodasilva&theme=tokyonight&exclude=none"
   />
 </p>
 
