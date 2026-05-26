@@ -48,12 +48,39 @@
             padding: 8px 13px; 
         }
 
-        main > #apresentacao {
+        #apresentacao {
             background-color: var(--principal);
             color: white;
 
             margin: 10px;
             padding: 10px;
+
+            border-radius: 10px;
+        }
+
+        #tecnologias {
+            background-color: var(--principal);
+            color: white;
+
+            margin: 10px;
+            padding: 10px;
+
+            border-radius: 10px;
+        }
+
+        .badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+
+            margin-top: 10px;
+        }
+
+        #status {
+            background-color: var(--principal);
+            
+            padding: 10px;
+            margin: 10px;
 
             border-radius: 10px;
         }
@@ -67,7 +94,7 @@
 
     <main>
         <section id="apresentacao">
-            <h2>Sobre Mim</h2>
+            <h2>🙋‍♂️ Sobre Mim</h2>
 
             <article>
                 <p>
@@ -76,8 +103,30 @@
             </article>
         </section>
 
-        <section>
-            <h2></h2>
+        <section id="status">
+            <div>
+                <img src="https://raw.githubusercontent.com/bbortolondasilva/bbortolondasilva/stats-output/stats.svg" height="150" alt="stats graph"  />
+                
+                <img src="https://raw.githubusercontent.com/bbortolondasilva/bbortolondasilva/languages-output/languages.svg" height="150" alt="languages graph"  />
+            </div>
+        </section>
+
+        <section id="tecnologias">
+            <h2>🚀 Tecnologias</h2>
+
+            <div class="badges">
+                <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+
+                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+
+                <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+            </div>
         </section>
     </main>
 </body>
