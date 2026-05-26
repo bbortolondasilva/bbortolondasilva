@@ -7,8 +7,7 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
+<br>
 
 <p align="center">
   <img
