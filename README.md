@@ -8,6 +8,21 @@
 
 ---
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bbortolondasilva&theme=tokyo-night"
+/>
+
+---
+
 ## 🚀 Tecnologias
 
 <p>
@@ -21,11 +36,3 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbortolondasilva&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbortolondasilva&layout=compact&theme=tokyonight"/>
-</p>
