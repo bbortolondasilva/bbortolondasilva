@@ -8,8 +8,6 @@
 
 ---
 
-<br> 
-
 ## 📊 Estatísticas
 
 <p align="center">
