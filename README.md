@@ -10,18 +10,11 @@
 <br>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"
-    alt="GitHub Streak"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbortolondasilva&theme=tokyonight"
   />
 </p>
 
-
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbortolondasilva&theme=tokyonight"
-/>
 ---
 
 ## 🚀 Tecnologias
