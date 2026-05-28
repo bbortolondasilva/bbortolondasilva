@@ -52,20 +52,13 @@
 
 <br>
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbortolondasilva&theme=tokyonight"
-  />
+  <img src="https://ghstats.dev/api/card?username=bbortolondasilva&border_radius=10"
+    alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
-  <img style="margin-right: 10px;"
-    width="41%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
-  />
-  <img 
-    width="41%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbortolondasilva&theme=tokyonight&exclude=none"
-  />
+  <img src="https://ghstats.dev/api/langs?username=bbortolondasilva&border_radius=10&max_langs=12" 
+    alt="Top Languages" />
 </p>
 
 ---
