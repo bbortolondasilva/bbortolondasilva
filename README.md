@@ -52,8 +52,10 @@
 
 <br>
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=bbortolondasilva&border_radius=10"
-    alt="GitHub Stats Card" />
+  <img 
+    src="https://ghstats.dev/api/card?username=bbortolondasilva&hide=avg,active_day,grade,repos,followers,prs,issues,week&border_radius=10"
+    alt="GitHub Stats Card" 
+  />
 </p>
 
 <p align="center">
