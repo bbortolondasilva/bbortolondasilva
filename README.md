@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Sistemas de Informação no IFRS - Campus Vacaria <br>
-💻 Técnico em Informática <br>
+💻 Técnico de Informática <br>
 🚀 Interessado em desenvolvimento e tecnologia
 </p>
 
