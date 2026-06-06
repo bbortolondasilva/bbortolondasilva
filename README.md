@@ -49,18 +49,3 @@
 </p>
 
 ---
-
-<br>
-<p align="center">
-  <img 
-    src="https://ghstats.dev/api/card?username=bbortolondasilva&hide=avg,active_day,grade,repos,followers,prs,issues,week&border_radius=10"
-    alt="GitHub Stats Card" 
-  />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=bbortolondasilva&border_radius=10&max_langs=12" 
-    alt="Top Languages" />
-</p>
-
----
